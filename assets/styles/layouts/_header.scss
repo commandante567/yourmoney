@@ -1,0 +1,76 @@
+header.banner {
+        padding: 10px 0;
+}
+
+.logo-wrap {
+    .logo {
+        float:left;
+    }
+    a.brand {
+        .blog-name-wrap {
+            padding-top: 15px;
+        }
+        span.blog-name{
+            font-size:1.5rem;
+            color:#222222;
+            line-height: 0.8;    
+            }
+        span {
+                color:$brand-primary;
+                font-size: 1.21rem;
+                line-height: 0.3;           
+            }   
+    }
+}
+
+.contacts {
+    padding-top: 20px;
+    a {
+        line-height: .8;
+        color:#222222;
+        span {
+            font-size:1rem;
+        }
+    }
+    a.c-phone {
+         font-size: 1.5rem;
+    }
+    a.c-mail {
+        font-size:0.8rem;
+    }
+}
+.call-button-wrap {
+    padding-top: 10px;
+}
+
+.call-button {
+    display: inline-block;
+    background-color: $brand-primary;
+    color:#ffffff;
+    padding: 12px 20px;
+    border-radius: 30px;
+    &:hover {
+        color:#ffffff;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

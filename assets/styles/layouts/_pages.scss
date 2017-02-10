@@ -1,0 +1,18 @@
+main.main {
+    padding:0;
+}
+.main-banner {
+    height: 507px;
+    background: url(../images/banner-bg.png) 0 0 no-repeat #f9473b;
+}
+
+section {
+    padding:50px 0;
+}
+
+.grey {
+    background-color: $grey;
+}
+.main-land {
+    background: url(../images/banner-bg.png) 0 50% no-repeat #f9473b;
+}
